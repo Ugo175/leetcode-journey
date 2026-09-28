@@ -10,29 +10,29 @@ This repository documents my solutions, thought processes, patterns, and lessons
 
 For every problem, I follow the **UMPIRE** interview methodology.
 
-### U — Understand
+### U —> Understand
 - Read the problem carefully.
 - Identify inputs, outputs, and constraints.
 - Consider edge cases.
 - Restate the problem in my own words.
 
-### M — Match
+### M —> Match
 - Match the problem to a known pattern or previously solved problem.
 - Identify relevant data structures and algorithms.
 
-### P — Plan
+### P —> Plan
 - Create a step-by-step solution strategy.
 - Think through time and space complexity before coding.
 
-### I — Implement
+### I —> Implement
 - Write clean, readable, and efficient code.
 - Follow the planned approach.
 
-### R — Run
+### R —> Run
 - Walk through the solution using sample inputs.
 - Verify that the logic behaves as expected.
 
-### E — Evaluate
+### E —> Evaluate
 - Analyze time and space complexity.
 - Consider possible optimizations.
 - Document key takeaways and patterns learned.
