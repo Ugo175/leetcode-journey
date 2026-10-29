@@ -1,4 +1,4 @@
-# LeetCode Journey with Python: UMPIREE!
+# LeetCode Journey with Python: UMPIRE
 
 Solving 2 LeetCode problems per day to sharpen my problem-solving skills, strengthen Data Structures & Algorithms fundamentals, and build long-term consistency as a software engineer.
 
